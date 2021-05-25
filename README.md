@@ -11,7 +11,8 @@ You can find  a full description here :
 https://www.kaggle.com/c/defi-ia-insa-toulouse
 
 # Ranking
-We had the oppportunnity to be at the second place for the fairness metric and the 4th place for f1 score.
+We had the oppportunnity to be at the **second place** for the fairness metric and the **4th place** for f1 score .
 
 [F1_Score Ranking](https://www.kaggle.com/c/defi-ia-insa-toulouse/leaderboard)
+
 [Fairness score](https://maxhalford.github.io/blog/fairness-competition/)
